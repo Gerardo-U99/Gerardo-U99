@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gerardo-U99
+- 👋 Hi, I’m @Gerardo Urdaneta
 - 👀 I’m interested in techonology! Specifically cybersecurity.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on security research proyects and cybersecurity training. 
